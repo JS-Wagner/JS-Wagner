@@ -10,9 +10,9 @@
 
 <div align="center">
   <p>
-    <a href="https://www.linkedin.com/in/[tu-linkedin]"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
-    <a href="https://twitter.com/[tu-twitter]"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1ca0f1?style=flat&logo=twitter&logoColor=white"></a>
-    <a href="mailto:[tu-email]"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/juanwagnerdev/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
+   <!-- <a href="https://twitter.com/[tu-twitter]"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1ca0f1?style=flat&logo=twitter&logoColor=white"></a>-->
+    <a href="mailto:aguswagnercalvo@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
   </p>
 </div>
 
@@ -34,8 +34,8 @@ Here's a list of the technologies I work with:
 - TypeScript
 - Node.js
 - Java
-- Angular Framework
-- Spring Framework
+- Angular
+- Spring
 - MySQL (learning)
 
 Thank you for visiting my profile! I hope you find something interesting here. 😄
