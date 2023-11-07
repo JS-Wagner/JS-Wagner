@@ -30,12 +30,11 @@ Here's a list of the technologies I work with:
 - HTML5
 - CSS3
 - JavaScript
-- PHP
+- PHP (learning)
 - TypeScript
 - Node.js
 - Java
 - Angular
-- Spring
 - MySQL (learning)
 
 Thank you for visiting my profile! I hope you find something interesting here. 😄
