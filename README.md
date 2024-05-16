@@ -30,20 +30,19 @@ Here's a list of the technologies I work with:
 - HTML5
 - CSS3
 - JavaScript
-- PHP (learning)
+- PHP
 - TypeScript
 - Node.js
 - Java
 - Angular
-- MySQL (learning)
+- MySQL
+- PostgreSQL
 
 Thank you for visiting my profile! I hope you find something interesting here. 😄
 
 
 <!--
-**JS-Wagner/JS-Wagner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**JS-Wagner/JS-Wagner** is a ✨ _special_ ✨ repository because its `README.md`
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
