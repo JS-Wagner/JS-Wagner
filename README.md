@@ -20,7 +20,7 @@
 
 - 🌍 Location: Tandil
 - 💼 Employed at Home
-- 🌱 Learning PHP
+- 🌱 Learning Kotlin & Android Development
 - 👯 Interested in collaborating on projects related to Anything! :)
 
 <h2>Technologies</h2>
@@ -37,6 +37,7 @@ Here's a list of the technologies I work with:
 - Angular
 - MySQL
 - PostgreSQL
+- PHP
 
 Thank you for visiting my profile! I hope you find something interesting here. 😄
 
@@ -50,6 +51,5 @@ Thank you for visiting my profile! I hope you find something interesting here. �
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
